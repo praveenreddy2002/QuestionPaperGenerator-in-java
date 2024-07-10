@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.io;
 
-public class QuestionPaperGenerator4 {
+public class QuestionPaperGenerator {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
